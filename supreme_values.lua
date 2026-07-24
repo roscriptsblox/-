@@ -67,6 +67,9 @@ return {
         ["icewing"] = 15
     },
     Godly = {
+        ["sands"] = 10000,
+        ["beachy"] = 10000,
+        ["icecream"] = 10000,
         ["traveler's gun"] = 5500,
         ["evergun"] = 3400,
         ["constellation"] = 2725,
