@@ -3,6 +3,9 @@ return {
     ['Christmas']={},
     Chroma = {
         ["chroma traveler's gun"] = 220000,
+        ["chroma sands"] = 100000,
+        ["chroma beachy"] = 100000,
+        ["chroma icecream"] = 100000,
         ["chroma evergun"] = 75000,
         ["chroma evergreen"] = 52000,
         ["chroma bauble"] = 34000,
